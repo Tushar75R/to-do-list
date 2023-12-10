@@ -11,7 +11,7 @@ h1{
   text-align: center;
 }
 #container{
-  width: 300rem;
+  width: 350px;
   margin: auto;
   display: flex;
   flex-flow: column;
